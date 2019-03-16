@@ -1,0 +1,17 @@
+package com.ropsis.redis.redisexample;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class RedisExampleApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
+
